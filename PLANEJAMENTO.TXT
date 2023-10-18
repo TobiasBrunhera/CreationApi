@@ -5,3 +5,4 @@ OK - GET /frases - Listar todas as frases
 OK - GET /frases/123 - Pegar informação de uma frase
 OK - PUT /frases/123 - Atualizar informações de uma frase
 OK - DELETE /frases/123 - Deletar uma frase
+OK - GET /frase/aleatoria - Pega uma frase aleatoriamente
